@@ -16,5 +16,20 @@ namespace ListView
         {
             InitializeComponent();
         }
+
+        private void LblName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtWork_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnAdd_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
